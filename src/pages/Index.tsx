@@ -25,7 +25,7 @@ const Index = () => {
               <br />
               My Dear Valentine
               <br />
-              <span className="text-romantic-rose">Adhu Kutta!</span>
+              <span className="text-romantic-rose">Adhukutta!</span>
             </h1>
             <div className="text-3xl flex gap-2">
               <span>🎂</span>

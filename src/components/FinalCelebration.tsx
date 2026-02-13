@@ -47,7 +47,7 @@ const FinalCelebration = () => {
         Happy Valentine's Day
       </h1>
       <h2 className="font-romantic text-2xl md:text-3xl text-romantic-rose mt-2">
-        My Dear Adhu Kutta! 💕
+        My Dear Adhukutta! 💕
       </h2>
 
       <div className="text-4xl flex gap-3 mt-4">
