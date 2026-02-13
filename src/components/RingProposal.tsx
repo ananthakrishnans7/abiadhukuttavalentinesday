@@ -11,7 +11,7 @@ const RingProposal = ({ onYes }: Props) => {
         Happy Valentine's Day 💝
       </h2>
       <h3 className="font-romantic text-2xl md:text-3xl text-romantic-rose text-center">
-        My Dear Adhu Kutta!
+        My Dear Adhukutta!
       </h3>
 
       {/* Ring */}

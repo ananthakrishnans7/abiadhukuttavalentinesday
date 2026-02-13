@@ -13,7 +13,7 @@ const BirthdayCake = ({ onMore }: Props) => {
         🎂 Happy Birthday 🎂
       </h2>
       <h3 className="font-romantic text-2xl md:text-3xl text-romantic-rose text-center">
-        My Dear Adhu Kutta! 🎉
+        My Dear Adhukutta! 🎉
       </h3>
 
       {/* Cake */}

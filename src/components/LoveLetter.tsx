@@ -18,7 +18,7 @@ const LoveLetter = ({ onMore }: Props) => {
         <span className="absolute top-2 right-3 text-xl opacity-50">🌹</span>
 
         <h2 className="font-romantic text-3xl md:text-4xl text-romantic-deep text-center mb-4">
-          To My Dear Adhu Kuttan 💕
+          To My Dear Adhukutta 💕
         </h2>
         <div className="font-body text-foreground leading-relaxed space-y-3 text-center text-sm md:text-base">
           <p>
